@@ -567,7 +567,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good",
-        price: 0.2,
+        price: 0.34,
         location: "NA01-0049-02-05",
         paypalId: "UJ2TYYWTDF8TU"
     },
@@ -578,7 +578,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Fair/Good",
-        price: 0.34,
+        price: 0.50,
         location: "LA01-0017-03-03",
         paypalId: "YAHQTJHDCXMPL"
     },
@@ -588,7 +588,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Very Good",
-        price: 0.34,
+        price: 1.68,
         location: "SD22-0002-06-01",
         paypalId: "Y5JRYQ8HFZFR8"
     },
@@ -599,7 +599,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 0.91,
+        price: 1.59,
         location: "LA01-0017-05-05",
         paypalId: "BXL9XYXCNT7XU"
     },
@@ -610,7 +610,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "Original Gum",
         grade: "Fine",
-        price: 2.06,
+        price: 2.14,
         location: "LA01-0017-05-04",
         paypalId: "4XEYU48G9SSX8"
     },
@@ -621,7 +621,7 @@ const stamps = [{
         hinged: "Never Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 0.30,
+        price: 0.52,
         location: "NA01-0061-01-01",
         paypalId: "ZXWM6E8CDWGXW"
     },
@@ -632,7 +632,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Very Good",
-        price: 0.38,
+        price: 0.75,
         location: "LA01-0018-03-01",
         paypalId: "93RA4NP2PS9WE"
     },
