@@ -10,7 +10,7 @@ const stamps = [{
         hinged: "Never Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 0.27,
+        price: 0.47,
         location: "NA01-0023-04-01",
         paypalId: "VLXK5MGURSGMW"
     },
@@ -20,7 +20,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 0.27,
+        price: 0.47,
         location: "SL01-0001-01-01",
         paypalId: "ZQHKY8Q7P4XBN"
     },
@@ -30,7 +30,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Fair/Good",
-        price: 0.14,
+        price: 0.20,
         location: "LA01-0006-01-03",
         paypalId: "DNZAB9WN5NDBL"
     },
@@ -40,7 +40,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 0.27,
+        price: 0.47,
         location: "SL01-0001-05-02",
         paypalId: "J7XMC8XE5VX32"
     },
@@ -51,7 +51,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Poor",
-        price: 0.09,
+        price: 0.22,
         location: "SD22-0001-04-01",
         paypalId: "HYNDGWRBMN3EN"
     },
@@ -61,7 +61,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good",
-        price: 0.68,
+        price: 1.12,
         location: "SL01-0001-02-06",
         paypalId: "XQZDC8C4L855G"
     },
@@ -71,7 +71,7 @@ const stamps = [{
         hinged: "Never Hinged",
         gum: "No Gum",
         grade: "Poor",
-        price: 0.09,
+        price: 0.22,
         location: "SL01-0001-03-02",
         paypalId: "M8V8RQTMPD3TL"
     },
@@ -81,7 +81,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good",
-        price: 0.68,
+        price: 1.12,
         location: "SL01-0001-04-01",
         paypalId: "X3X648YMZFPPN"
     },
@@ -91,7 +91,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Fair",
-        price: 0.27,
+        price: 0.45,
         location: "SL01-0001-05-05",
         paypalId: "A7U69JHJAS5EA"
     },
@@ -101,7 +101,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Poor",
-        price: 0.09,
+        price: 0.22,
         location: "SL01-0001-06-01",
         paypalId: "Z2SWMKPLH74PC"
     },
@@ -111,7 +111,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Poor",
-        price: 0.09,
+        price: 0.22,
         location: "SL01-0001-04-02",
         paypalId: "AXEF4NBTYBLMY"
     },
@@ -121,7 +121,7 @@ const stamps = [{
         hinged: "Never Hinged",
         gum: "No Gum",
         grade: "Poor",
-        price: 0.09,
+        price: 0.22,
         location: "SL01-0001-08-03",
         paypalId: "KY7V3LTME7JK6"
     },
@@ -132,7 +132,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good",
-        price: 3.04,
+        price: 5.06,
         location: "LA01-0007-01-02",
         paypalId: "MZ86UJDWJMD3W"
     },
@@ -143,7 +143,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Fair",
-        price: 0.04,
+        price: 0.08,
         location: "SD22-0001-04-03",
         paypalId: "7TSTDFCV3PWS6"
     },
@@ -154,7 +154,7 @@ const stamps = [{
         hinged: "Never Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 3.20,
+        price: 5.60,
         location: "LA01-0007-02-01",
         paypalId: "EWFW5Y4ERLBK4"
     },
@@ -165,7 +165,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Fair/Good",
-        price: 1.18,
+        price: 1.77,
         location: "NA01-0025-05-01",
         paypalId: "WE636BKJJMLUA"
     },
@@ -175,7 +175,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 2.36,
+        price: 4.13,
         location: "SL01-0001-06-02",
         paypalId: "3CNALF8U779KN"
     },
@@ -185,7 +185,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 2.36,
+        price: 4.13,
         location: "SL01-0001-06-05",
         paypalId: "3PC923KPHTLAL"
     },
@@ -195,7 +195,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 2.36,
+        price: 4.13,
         location: "SL01-0001-07-01",
         paypalId: "RX8Z2SZUDJFZE"
     },
@@ -205,41 +205,30 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 2.36,
+        price: 4.13,
         location: "SL01-0001-07-02",
         paypalId: "ZPK46G5Z9SQ5G"
     },
+
     {
         scott: "178",
         condition: "Used",
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good",
-        price: 1.77,
+        price: 2.95,
         location: "SL01-0001-07-04",
         paypalId: "39ZTAW8J72X8U"
     },
-
     {
         scott: "182",
         condition: "Used",
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Fair/Good",
-        price: 0.51,
+        price: 0.76,
         location: "NA01-0029-01-01",
         paypalId: "CLCQRH7JJ8GZU"
-    },
-
-    {
-        scott: "183",
-        condition: "Used",
-        hinged: "Hinged",
-        gum: "No Gum",
-        grade: "Fair/Good",
-        price: 0.41,
-        location: "LA01-0008-01-02",
-        paypalId: "GUHNK6SLC3H7U"
     },
     {
         scott: "183",
@@ -247,9 +236,19 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Very Good/Fine",
-        price: 1.44,
+        price: 2.66,
         location: "NA01-0029-01-02",
         paypalId: "JNZ7XC8HWERZ6"
+    },
+    {
+        scott: "183",
+        condition: "Used",
+        hinged: "Hinged",
+        gum: "No Gum",
+        grade: "Fair/Good",
+        price: 0.62,
+        location: "LA01-0008-01-02",
+        paypalId: "GUHNK6SLC3H7U"
     },
 
     {
