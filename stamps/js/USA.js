@@ -1666,119 +1666,209 @@ const stamps = [{
         hinged: "Never Hinged",
         gum: "Original Gum",
         grade: "Very Good",
-        price: 0.80,
+        price: 0.52,
         location: "LA01-0054-03-03",
         paypalId: "UQKFT52PFA89C"
     },
-
     {
         scott: "921",
         condition: "Mint",
         hinged: "Hinged",
         gum: "Original Gum",
         grade: "Very Good",
-        price: 0.06,
+        price: 0.08,
         location: "LA01-0055-05-03",
         paypalId: "WSPXYJEXRTASQ"
     },
-
     {
         scott: "940",
         condition: "Mint",
         hinged: "Never Hinged",
         gum: "Original Gum",
         grade: "Very Good",
-        price: 0.25,
+        price: 0.90,
         location: "SL01-0002-03-01",
         paypalId: "9NPW2NLBHZVAL"
     },
-
     {
         scott: "942",
         condition: "Mint",
         hinged: "Never Hinged",
         gum: "Original Gum",
         grade: "Very Good",
-        price: 0.25,
+        price: 0.90,
         location: "SL01-0002-07-01",
         paypalId: "F75BXWAZWVDSC"
     },
-
+    {
+        scott: "942",
+        condition: "Used",
+        hinged: "Hinged",
+        gum: "No Gum",
+        grade: "Good/Very Good",
+        price: 0.05,
+        location: "LA01-0057-04-02",
+        paypalId: "5X6WKU87U6SNE"
+    },
     {
         scott: "945",
         condition: "Used",
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 0.04,
+        price: 0.05,
         location: "LA01-0058-01-02",
         paypalId: "YTY6F6W9CLZFY"
     },
-
     {
         scott: "946",
         condition: "Used",
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 0.04,
+        price: 0.05,
         location: "LA01-0058-01-03",
         paypalId: "HWMMJNUJ3DKP8"
     },
-
     {
         scott: "948",
         condition: "Mint",
         hinged: "Never Hinged",
         gum: "Original Gum",
         grade: "Fine",
-        price: 0.30,
+        price: 0.75,
         location: "LA01-0058-02-02",
         paypalId: "X5P3RHZ3CRDCQ"
     },
-
     {
         scott: "953",
         condition: "Mint",
         hinged: "Hinged",
         gum: "Original Gum",
         grade: "Very Good",
-        price: 0.06,
+        price: 0.08,
         location: "LA01-0059-02-02",
         paypalId: "LQSKEDXYM3QXY"
     },
-
     {
         scott: "954",
         condition: "Used",
         hinged: "Never Hinged",
         gum: "No Gum",
         grade: "Very Good",
-        price: 0.06,
+        price: 0.08,
         location: "LA01-0059-01-03",
         paypalId: "9MCSJ9WX6XGBE"
     },
-
     {
         scott: "956",
         condition: "Used",
         hinged: "Never Hinged",
         gum: "No Gum",
         grade: "Fine",
-        price: 0.06,
+        price: 0.11,
         location: "LA01-0059-02-04",
         paypalId: "3Z7VG52JLRZ54"
     },
-
     {
         scott: "958",
         condition: "Mint",
         hinged: "Hinged",
         gum: "Original Gum",
         grade: "Very Good",
-        price: 0.06,
+        price: 0.08,
         location: "LA01-0059-03-02",
         paypalId: "SY5DSGUNRYS72"
+    },
+    {
+        scott: "962",
+        condition: "Mint",
+        hinged: "Hinged",
+        gum: "Original Gum",
+        grade: "Good",
+        price: 0.04,
+        location: "LA01-0059-04-02",
+        paypalId: "MABW6JQ3R679C"
+    },
+    {
+        scott: "963",
+        condition: "Mint",
+        hinged: "Hinged",
+        gum: "Original Gum",
+        grade: "Fine",
+        price: 0.11,
+        location: "LA01-0059-04-03",
+        paypalId: "H4Y9W3XUBFAWL"
+    },
+    {
+        scott: "966",
+        condition: "Mint",
+        hinged: "Hinged",
+        gum: "Original Gum",
+        grade: "Very Good/Fine",
+        price: 0.10,
+        location: "LA01-0060-01-03",
+        paypalId: "VKPYXVBXES3GU"
+    },
+    {
+        scott: "969",
+        condition: "Mint",
+        hinged: "Hinged",
+        gum: "Original Gum",
+        grade: "Very Good/Fine",
+        price: 0.10,
+        location: "LA01-0061-01-02",
+        paypalId: "3YXJQ44TKP8Y6"
+    },
+    {
+        scott: "978",
+        condition: "Mint",
+        hinged: "Hinged",
+        gum: "Original Gum",
+        grade: "Very Good/Fine",
+        price: 0.10,
+        location: "LA01-0061-02-02",
+        paypalId: "APJ9B2V8PJLNL"
+    },
+    {
+        scott: "979",
+        condition: "Mint",
+        hinged: "Hinged",
+        gum: "Original Gum",
+        grade: "Very Good",
+        price: 0.08,
+        location: "LA01-0061-01-03",
+        paypalId: "CRF649EKK6ZLY"
+    },
+    {
+        scott: "982",
+        condition: "Used",
+        hinged: "Hinged",
+        gum: "No Gum",
+        grade: "Fine",
+        price: 0.11,
+        location: "LA01-0061-03-02",
+        paypalId: "S7JZW5L52ZENS"
+    },
+    {
+        scott: "984",
+        condition: "Used",
+        hinged: "Hinged",
+        gum: "No Gum",
+        grade: "Good/Very Good",
+        price: 0.05,
+        location: "LA01-0061-04-01",
+        paypalId: "A8CZFKD8N4YN4"
+    },
+    {
+        scott: "989",
+        condition: "Used",
+        hinged: "Hinged",
+        gum: "No Gum",
+        grade: "Good",
+        price: 0.04,
+        location: "LA01-0062-02-02",
+        paypalId: "RHYD4WYN7TQDL"
     },
 
     {
