@@ -44,7 +44,6 @@ const stamps = [{
         location: "SL01-0001-05-02",
         paypalId: "J7XMC8XE5VX32"
     },
-
     {
         scott: "156",
         condition: "Used",
@@ -125,7 +124,6 @@ const stamps = [{
         location: "SL01-0001-08-03",
         paypalId: "KY7V3LTME7JK6"
     },
-
     {
         scott: "157",
         condition: "Used",
@@ -136,7 +134,6 @@ const stamps = [{
         location: "LA01-0007-01-02",
         paypalId: "MZ86UJDWJMD3W"
     },
-
     {
         scott: "158",
         condition: "Used",
@@ -147,7 +144,6 @@ const stamps = [{
         location: "SD22-0001-04-03",
         paypalId: "7TSTDFCV3PWS6"
     },
-
     {
         scott: "159",
         condition: "Used",
@@ -158,7 +154,6 @@ const stamps = [{
         location: "LA01-0007-02-01",
         paypalId: "EWFW5Y4ERLBK4"
     },
-
     {
         scott: "178",
         condition: "Used",
@@ -209,7 +204,6 @@ const stamps = [{
         location: "SL01-0001-07-02",
         paypalId: "ZPK46G5Z9SQ5G"
     },
-
     {
         scott: "178",
         condition: "Used",
@@ -300,7 +294,6 @@ const stamps = [{
         location: "SD22-0001-06-04",
         paypalId: "CUSDSZWYC2KFW"
     },
-
     {
         scott: "222",
         condition: "Used",
@@ -311,7 +304,6 @@ const stamps = [{
         location: "LA01-0009-02-02",
         paypalId: "2KLV2P3SCWNVS"
     },
-
     {
         scott: "225",
         condition: "Used",
@@ -332,7 +324,6 @@ const stamps = [{
         location: "NA01-0033-04-03",
         paypalId: "T47GP7MS88TUC"
     },
-
     {
         scott: "226",
         condition: "Used",
@@ -343,7 +334,6 @@ const stamps = [{
         location: "NA01-0033-04-04",
         paypalId: "YV3P9GA2N3Y9L"
     },
-
     {
         scott: "227",
         condition: "Used",
@@ -354,7 +344,6 @@ const stamps = [{
         location: "NA01-0033-05-01",
         paypalId: "86CCH8CYVP4CC"
     },
-
     {
         scott: "234",
         condition: "Used",
@@ -365,7 +354,6 @@ const stamps = [{
         location: "LA01-0010-02-01",
         paypalId: "KRMYJ48S2C4WC"
     },
-
     {
         scott: "236",
         condition: "Used",
@@ -376,7 +364,6 @@ const stamps = [{
         location: "LA01-0010-02-03",
         paypalId: "X9L6WRZBJCR9G"
     },
-
     {
         scott: "247",
         condition: "Used",
@@ -387,7 +374,6 @@ const stamps = [{
         location: "LA01-0011-01-02",
         paypalId: "KNU9WRTTMZK5J"
     },
-
     {
         scott: "248",
         condition: "Used",
@@ -398,7 +384,6 @@ const stamps = [{
         location: "LA01-0011-01-03",
         paypalId: "U4FYVEB9RH9XL"
     },
-
     {
         scott: "252",
         condition: "Used",
@@ -419,7 +404,6 @@ const stamps = [{
         location: "NA01-0037-02-05",
         paypalId: "AGBLFPMSZ3AMN"
     },
-
     {
         scott: "279",
         condition: "Used",
@@ -440,7 +424,6 @@ const stamps = [{
         location: "SL01-0001-07-03",
         paypalId: "CHZEV6VVBLB7N"
     },
-
     {
         scott: "279B",
         condition: "Used",
@@ -451,7 +434,6 @@ const stamps = [{
         location: "NA01-0039-04-02",
         paypalId: "CBRMPSWK939Z2"
     },
-
     {
         scott: "283",
         condition: "Used",
@@ -462,7 +444,6 @@ const stamps = [{
         location: "LA01-0012-05-02",
         paypalId: "JYPGG5QKWTYHA"
     },
-
     {
         scott: "285",
         condition: "Used",
@@ -483,7 +464,6 @@ const stamps = [{
         location: "LA01-0013-01-01",
         paypalId: "8BHVQ48EP437C"
     },
-
     {
         scott: "286",
         condition: "Used",
@@ -494,7 +474,6 @@ const stamps = [{
         location: "NA01-0041-01-02",
         paypalId: "VBFAR85CHWRRQ"
     },
-
     {
         scott: "288",
         condition: "Used",
@@ -505,7 +484,6 @@ const stamps = [{
         location: "LA01-0013-02-01",
         paypalId: "UGRSJFXGEL3DJ"
     },
-
     {
         scott: "300",
         condition: "Used",
@@ -516,7 +494,6 @@ const stamps = [{
         location: "SL01-0001-02-04",
         paypalId: "L2ZZU3M8PU6XG"
     },
-
     {
         scott: "303",
         condition: "Used",
@@ -527,7 +504,6 @@ const stamps = [{
         location: "LA01-0014-02-01",
         paypalId: "838APDKRTLDUU"
     },
-
     {
         scott: "306",
         condition: "Used",
@@ -538,7 +514,6 @@ const stamps = [{
         location: "LA01-0014-02-04",
         paypalId: "VSH3C96XQWEXC"
     },
-
     {
         scott: "329",
         condition: "Mint",
@@ -549,7 +524,6 @@ const stamps = [{
         location: "LA01-0015-04-02",
         paypalId: "WPKDR3L4CRGW6"
     },
-
     {
         scott: "335",
         condition: "Used",
@@ -560,7 +534,6 @@ const stamps = [{
         location: "LA01-0016-01-05",
         paypalId: "2H9LQ2A2R8838"
     },
-
     {
         scott: "338",
         condition: "Used",
@@ -571,7 +544,6 @@ const stamps = [{
         location: "NA01-0049-02-05",
         paypalId: "UJ2TYYWTDF8TU"
     },
-
     {
         scott: "372",
         condition: "Used",
@@ -592,7 +564,6 @@ const stamps = [{
         location: "SD22-0002-06-01",
         paypalId: "Y5JRYQ8HFZFR8"
     },
-
     {
         scott: "381",
         condition: "Used",
@@ -603,7 +574,6 @@ const stamps = [{
         location: "LA01-0017-05-05",
         paypalId: "BXL9XYXCNT7XU"
     },
-
     {
         scott: "384",
         condition: "Mint",
@@ -614,7 +584,6 @@ const stamps = [{
         location: "LA01-0017-05-04",
         paypalId: "4XEYU48G9SSX8"
     },
-
     {
         scott: "397",
         condition: "Used",
@@ -625,7 +594,6 @@ const stamps = [{
         location: "NA01-0061-01-01",
         paypalId: "ZXWM6E8CDWGXW"
     },
-
     {
         scott: "397",
         condition: "Used",
@@ -636,7 +604,6 @@ const stamps = [{
         location: "LA01-0018-03-01",
         paypalId: "93RA4NP2PS9WE"
     },
-
     {
         scott: "405",
         condition: "Used",
@@ -667,7 +634,6 @@ const stamps = [{
         location: "SL01-0001-05-04",
         paypalId: "N3QLMFPZYRWFN"
     },
-
     {
         scott: "418",
         condition: "Used",
@@ -678,7 +644,6 @@ const stamps = [{
         location: "LA01-0019-04-01",
         paypalId: "K5CDZT44BWF7S"
     },
-
     {
         scott: "425",
         condition: "Mint",
@@ -689,7 +654,6 @@ const stamps = [{
         location: "LA01-0020-01-02",
         paypalId: "4X7XAD9P9JVLA"
     },
-
     {
         scott: "463",
         condition: "Mint",
@@ -710,7 +674,6 @@ const stamps = [{
         location: "NA01-0079-01-01",
         paypalId: "QANRAUX3E4Z6E"
     },
-
     {
         scott: "486",
         condition: "Mint",
@@ -721,7 +684,6 @@ const stamps = [{
         location: "LA01-0023-01-01",
         paypalId: "AM8URS4YRZ9Z4"
     },
-
     {
         scott: "492",
         condition: "Used",
@@ -732,7 +694,6 @@ const stamps = [{
         location: "LA01-0023-02-03",
         paypalId: "Z3JQ6NGD9HP4N"
     },
-
     {
         scott: "493",
         condition: "Mint",
@@ -743,7 +704,6 @@ const stamps = [{
         location: "LA01-0023-02-04",
         paypalId: "N8747SZ7QJLE2"
     },
-
     {
         scott: "504",
         condition: "Used",
@@ -814,7 +774,6 @@ const stamps = [{
         location: "SL01-0001-10-03",
         paypalId: "H467DZYZAB7BY"
     },
-
     {
         scott: "517",
         condition: "Used",
@@ -835,7 +794,6 @@ const stamps = [{
         location: "NA01-0081-05-02",
         paypalId: "5D2L3WUTE832L"
     },
-
     {
         scott: "542",
         condition: "Used",
@@ -846,7 +804,6 @@ const stamps = [{
         location: "LA01-0026-02-01",
         paypalId: "6GP4ALQSWY8RA"
     },
-
     {
         scott: "551",
         condition: "Mint",
@@ -867,7 +824,6 @@ const stamps = [{
         location: "NA01-0091-01-01",
         paypalId: "PW59FK85C9GK2"
     },
-
     {
         scott: "552",
         condition: "Mint",
@@ -878,7 +834,6 @@ const stamps = [{
         location: "NA01-0091-01-02",
         paypalId: "T6DR3B5277ZNN"
     },
-
     {
         scott: "553",
         condition: "Mint",
@@ -899,7 +854,6 @@ const stamps = [{
         location: "NA01-0091-01-03",
         paypalId: "SLSFHLZKR6HZY"
     },
-
     {
         scott: "554",
         condition: "Mint",
@@ -920,7 +874,6 @@ const stamps = [{
         location: "NA01-0091-01-04",
         paypalId: "46S5NTDFDH5PQ"
     },
-
     {
         scott: "555",
         condition: "Used",
@@ -931,7 +884,6 @@ const stamps = [{
         location: "NA01-0091-02-01",
         paypalId: "TKGR7LACJ2FVL"
     },
-
     {
         scott: "558",
         condition: "Used",
@@ -942,7 +894,6 @@ const stamps = [{
         location: "LA01-0027-02-03",
         paypalId: "AWXQLU5W49WYG"
     },
-
     {
         scott: "559",
         condition: "Used",
@@ -953,7 +904,6 @@ const stamps = [{
         location: "LA01-0027-02-04",
         paypalId: "K67KJSJ57H98E"
     },
-
     {
         scott: "562",
         condition: "Used",
@@ -964,7 +914,6 @@ const stamps = [{
         location: "NA01-0091-03-03",
         paypalId: "64WKFWZT88XVW"
     },
-
     {
         scott: "567",
         condition: "Used",
@@ -975,7 +924,6 @@ const stamps = [{
         location: "LA01-0027-04-01",
         paypalId: "2ZAVK6TAXSMAL"
     },
-
     {
         scott: "571",
         condition: "Used",
@@ -996,7 +944,6 @@ const stamps = [{
         location: "SL01-0001-06-06",
         paypalId: "QV9S3EH56GKA8"
     },
-
     {
         scott: "582",
         condition: "Mint",
@@ -1027,7 +974,6 @@ const stamps = [{
         location: "SL01-0001-01-02",
         paypalId: "93QKSHR5A7XFQ"
     },
-
     {
         scott: "583",
         condition: "Mint",
@@ -1048,7 +994,6 @@ const stamps = [{
         location: "NA01-0093-02-03",
         paypalId: "44PNU74ATHQMJ"
     },
-
     {
         scott: "586",
         condition: "Used",
@@ -1059,7 +1004,6 @@ const stamps = [{
         location: "LA01-0028-01-06",
         paypalId: "4CBB2P4BT7DBQ"
     },
-
     {
         scott: "599",
         condition: "Used",
@@ -1070,7 +1014,6 @@ const stamps = [{
         location: "LA01-0028-03-03",
         paypalId: "E2FRDDZSX7C94"
     },
-
     {
         scott: "604",
         condition: "Mint",
@@ -1081,7 +1024,6 @@ const stamps = [{
         location: "NA01-0099-05-02",
         paypalId: "VD22PXU6CFS4N"
     },
-
     {
         scott: "605",
         condition: "Used",
@@ -1092,7 +1034,6 @@ const stamps = [{
         location: "LA01-0028-04-03",
         paypalId: "DG4Z86MPPKYTE"
     },
-
     {
         scott: "606",
         condition: "Mint",
@@ -1103,7 +1044,6 @@ const stamps = [{
         location: "NA01-0099-05-03",
         paypalId: "DURVACV3MFFBQ"
     },
-
     {
         scott: "610",
         condition: "Mint",
@@ -1154,7 +1094,6 @@ const stamps = [{
         location: "SL01-0001-09-06",
         paypalId: "GCK7WENMKTNCS"
     },
-
     {
         scott: "611",
         condition: "Used",
@@ -1175,7 +1114,6 @@ const stamps = [{
         location: "SL01-0001-10-01",
         paypalId: "UPHJJZJRHUV36"
     },
-
     {
         scott: "612",
         condition: "Mint",
@@ -1186,7 +1124,6 @@ const stamps = [{
         location: "LA01-0028-05-03",
         paypalId: "CSUHBNXSZ2DM4"
     },
-
     {
         scott: "614",
         condition: "Mint",
@@ -1197,7 +1134,6 @@ const stamps = [{
         location: "LA01-0029-01-01",
         paypalId: "X5W7Q8TZRQD74"
     },
-
     {
         scott: "619",
         condition: "Mint",
@@ -1218,7 +1154,6 @@ const stamps = [{
         location: "NA014-0101-01-03",
         paypalId: "QXCXJREVKR3BN"
     },
-
     {
         scott: "622",
         condition: "Mint",
@@ -1229,7 +1164,6 @@ const stamps = [{
         location: "LA01-0029-03-03",
         paypalId: "ZNQYRAUW3XSLW"
     },
-
     {
         scott: "631",
         condition: "Mint",
@@ -1240,7 +1174,6 @@ const stamps = [{
         location: "LA01-0031-02-04",
         paypalId: "ESR5A85TNFXD2"
     },
-
     {
         scott: "633",
         condition: "Mint",
@@ -1261,7 +1194,6 @@ const stamps = [{
         location: "NA01-0105-02-03",
         paypalId: "FEN9USDNMZQEU"
     },
-
     {
         scott: "634",
         condition: "Used",
@@ -1272,7 +1204,6 @@ const stamps = [{
         location: "LA01-0031-02-05",
         paypalId: "PRXBCQYYZXH6L"
     },
-
     {
         scott: "637",
         condition: "Mint",
@@ -1283,7 +1214,6 @@ const stamps = [{
         location: "LA01-0031-03-04",
         paypalId: "Q9EFD8HKNZ7CJ"
     },
-
     {
         scott: "639",
         condition: "Mint",
@@ -1294,7 +1224,6 @@ const stamps = [{
         location: "LA01-0031-04-01",
         paypalId: "HGKLVQQ9NCK6G"
     },
-
     {
         scott: "642",
         condition: "Used",
@@ -1305,7 +1234,6 @@ const stamps = [{
         location: "NA01-0105-04-03",
         paypalId: "MVYE4VNW6JH9W"
     },
-
     {
         scott: "674",
         condition: "Mint",
@@ -1316,7 +1244,6 @@ const stamps = [{
         location: "LA01-0032-04-01",
         paypalId: "EDCF2CWL6BQJG"
     },
-
     {
         scott: "684",
         condition: "Used",
@@ -1327,7 +1254,6 @@ const stamps = [{
         location: "NA01-0115-01-01",
         paypalId: "6B3MQWBHCVDDC"
     },
-
     {
         scott: "685",
         condition: "Used",
@@ -1338,7 +1264,6 @@ const stamps = [{
         location: "LA01-0033-03-05",
         paypalId: "SKTZ27ZZF65RL"
     },
-
     {
         scott: "698",
         condition: "Mint",
@@ -1349,7 +1274,6 @@ const stamps = [{
         location: "LA01-0034-02-02",
         paypalId: "2B76H8WCXKE4U"
     },
-
     {
         scott: "701",
         condition: "Used",
@@ -1360,7 +1284,6 @@ const stamps = [{
         location: "LA01-0034-02-05",
         paypalId: "4T3EGFTX9Y4ZQ"
     },
-
     {
         scott: "704",
         condition: "Mint",
@@ -1381,7 +1304,6 @@ const stamps = [{
         location: "LA01-0034-03-01",
         paypalId: "P4WGGYS8MR7PU"
     },
-
     {
         scott: "705",
         condition: "Mint",
@@ -1412,7 +1334,6 @@ const stamps = [{
         location: "SL01-0001-03-01",
         paypalId: "QAUDKLAYXR67N"
     },
-
     {
         scott: "706",
         condition: "Mint",
@@ -1433,7 +1354,6 @@ const stamps = [{
         location: "NA01-0117-01-03",
         paypalId: "8BAG3SAWCRAB6"
     },
-
     {
         scott: "707",
         condition: "Mint",
@@ -1444,7 +1364,6 @@ const stamps = [{
         location: "NA01-0117-01-04",
         paypalId: "XNCJTNA28EUPQ"
     },
-
     {
         scott: "708",
         condition: "Used",
@@ -1455,7 +1374,6 @@ const stamps = [{
         location: "LA01-0034-04-01",
         paypalId: "NQCU8B7DSQ2FS"
     },
-
     {
         scott: "712",
         condition: "Mint",
@@ -1466,7 +1384,6 @@ const stamps = [{
         location: "SD22-0003-05-02",
         paypalId: "N9JKMKNZD4VWN"
     },
-
     {
         scott: "713",
         condition: "Mint",
@@ -1477,7 +1394,6 @@ const stamps = [{
         location: "LA01-0034-05-01",
         paypalId: "WFPKQJLAZQJL4"
     },
-
     {
         scott: "715",
         condition: "Mint",
@@ -1488,7 +1404,6 @@ const stamps = [{
         location: "LA01-0034-05-03",
         paypalId: "UZM2A3GUC8GXU"
     },
-
     {
         scott: "716",
         condition: "Mint",
@@ -1499,7 +1414,6 @@ const stamps = [{
         location: "LA01-0035-01-01",
         paypalId: "Y2RG8732GZ58E"
     },
-
     {
         scott: "725",
         condition: "Used",
@@ -1510,7 +1424,6 @@ const stamps = [{
         location: "LA01-0035-03-02",
         paypalId: "7YSRFFE4DFS6A"
     },
-
     {
         scott: "727",
         condition: "Used",
@@ -1521,7 +1434,6 @@ const stamps = [{
         location: "LA01-0035-04-02",
         paypalId: "BTN53H5M6AHTC"
     },
-
     {
         scott: "728",
         condition: "Used",
@@ -1532,7 +1444,6 @@ const stamps = [{
         location: "LA01-0036-02-01",
         paypalId: "8WB73Z24A2J9U"
     },
-
     {
         scott: "733",
         condition: "Used",
@@ -1543,7 +1454,6 @@ const stamps = [{
         location: "LA01-0038-03-01",
         paypalId: "U8UBBAP4URAPQ"
     },
-
     {
         scott: "740",
         condition: "Used",
@@ -1554,7 +1464,6 @@ const stamps = [{
         location: "LA01-0039-01-01",
         paypalId: "R9FLW4UZ2QR2S"
     },
-
     {
         scott: "743",
         condition: "Used",
@@ -1565,7 +1474,6 @@ const stamps = [{
         location: "LA01-0039-02-03",
         paypalId: "MKAL7R297H9AE"
     },
-
     {
         scott: "744",
         condition: "Used",
@@ -1576,7 +1484,6 @@ const stamps = [{
         location: "LA01-0039-01-02",
         paypalId: "G67PE93ZRLV5G"
     },
-
     {
         scott: "747",
         condition: "Used",
@@ -1587,47 +1494,53 @@ const stamps = [{
         location: "LA01-0039-01-03",
         paypalId: "6JZZ3GB7729LN"
     },
-
     {
         scott: "803",
         condition: "Used",
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 0.04,
+        price: 0.05,
         location: "LA01-0049-01-01",
         paypalId: "CXVB663FEP8TE"
     },
-
     {
         scott: "807",
         condition: "Used",
         hinged: "Never Hinged",
         gum: "No Gum",
         grade: "Fair/Good",
-        price: 0.03,
+        price: 0.02,
         location: "LA01-0049-01-05",
         paypalId: "X5YCG6Z7XVMU4"
     },
-
+    {
+        scott: "831",
+        condition: "Used",
+        hinged: "Hinged",
+        gum: "No Gum",
+        grade: "Poor",
+        price: 0.01,
+        location: "LA01-0050-02-01",
+        paypalId: "4UBKJ3LK8AHAN"
+    },
     {
         scott: "842",
         condition: "Used",
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 0.04,
+        price: 0.05,
         location: "LA01-0050-03-04",
         paypalId: "B99YTGDS8AY7N"
     },
-
     {
         scott: "845",
         condition: "Used",
         hinged: "Never Hinged",
         gum: "No Gum",
         grade: "Fine",
-        price: 1.25,
+        price: 0.45,
         location: "LA01-0050-04-03",
         paypalId: "RLTLFHBA9ATKE"
     },
@@ -1638,7 +1551,7 @@ const stamps = [{
         hinged: "Never Hinged",
         gum: "No Gum",
         grade: "Fair/Good",
-        price: 0.03,
+        price: 0.04,
         location: "LA01-0050-05-01",
         paypalId: "RVMXSYZM5G2RQ"
     },
@@ -1649,7 +1562,7 @@ const stamps = [{
         hinged: "Never Hinged",
         gum: "No Gum",
         grade: "Fair",
-        price: 0.02,
+        price: 0.10,
         location: "LA01-0050-05-03",
         paypalId: "48MPDQE9JZ342"
     },
@@ -1660,7 +1573,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Fine",
-        price: 0.10,
+        price: 0.11,
         location: "LA01-0051-03-03",
         paypalId: "9K8KYV2ZGJH5U"
     },
@@ -1671,7 +1584,7 @@ const stamps = [{
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 0.04,
+        price: 0.09,
         location: "LA01-0052-02-04",
         paypalId: "YR76F36PKUFWE"
     },
@@ -1693,7 +1606,7 @@ const stamps = [{
         hinged: "Never Hinged",
         gum: "Original Gum",
         grade: "Fine/Very Fine",
-        price: 0.23,
+        price: 0.17,
         location: "LA01-0053-01-03",
         paypalId: "RT7BTH4TRGDQ2"
     },
@@ -1707,29 +1620,36 @@ const stamps = [{
         location: "NA01-0157-01-03",
         paypalId: "HZ8KEUQNJUCAA"
     },
-
+    {
+        scott: "882",
+        condition: "Used",
+        hinged: "Hinged",
+        gum: "No Gum",
+        grade: "Very Good/Fine",
+        price: 0.20,
+        location: "LA01-0053-01-04",
+        paypalId: "JMN78LJ5VR2US"
+    },
     {
         scott: "884",
         condition: "Used",
         hinged: "Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 0.04,
+        price: 0.05,
         location: "LA01-0053-02-01",
         paypalId: "66R4AHVWPPW84"
     },
-
     {
         scott: "888",
         condition: "Used",
         hinged: "Never Hinged",
         gum: "No Gum",
         grade: "Good/Very Good",
-        price: 0.25,
+        price: 0.70,
         location: "LA01-0053-02-05",
         paypalId: "DGMEK7VL7WPN6"
     },
-
     {
         scott: "889",
         condition: "Used",
@@ -1740,7 +1660,6 @@ const stamps = [{
         location: "LA01-0053-03-01",
         paypalId: "K2ZL8V7QG658E"
     },
-
     {
         scott: "906",
         condition: "Mint",
